@@ -73,7 +73,7 @@ function makeSound(key){
     break;
 
   default:
-  alert("Not valid");
+  console.log(this.innerHTML);
 }
 }
 
